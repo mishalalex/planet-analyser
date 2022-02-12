@@ -4,6 +4,7 @@ This is a simple CLI application which helps to find out habitable planets from 
 Using NodeJS, we can create a pipeline where we cab read the data line by line (rather than reading them all in one go which will take a lot of time), convert each row into an object, check for the conditions, collect the details of the planets which can be considered as habitable in an array and present them to the user.
 
 Data: Download CSV from - https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative
+
 Habitable planet checklist: https://phl.upr.edu/projects/habitable-exoplanets-catalog
 
 Libraries/modules used: csv-parse
